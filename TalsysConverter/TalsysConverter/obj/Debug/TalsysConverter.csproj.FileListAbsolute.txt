@@ -1,0 +1,8 @@
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\bin\Debug\TalsysConverter.exe.config
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\bin\Debug\TalsysConverter.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\bin\Debug\TalsysConverter.pdb
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\obj\Debug\TalsysConverter.csproj.AssemblyReference.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\obj\Debug\TalsysConverter.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\obj\Debug\TalsysConverter.csproj.CoreCompileInputs.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\obj\Debug\TalsysConverter.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\TalsysConverter\TalsysConverter\obj\Debug\TalsysConverter.pdb
