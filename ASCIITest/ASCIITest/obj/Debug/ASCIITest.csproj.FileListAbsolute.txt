@@ -1,0 +1,8 @@
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\bin\Debug\ASCIITest.exe.config
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\bin\Debug\ASCIITest.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\bin\Debug\ASCIITest.pdb
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\obj\Debug\ASCIITest.csproj.AssemblyReference.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\obj\Debug\ASCIITest.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\obj\Debug\ASCIITest.csproj.CoreCompileInputs.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\obj\Debug\ASCIITest.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\ASCIITest\ASCIITest\obj\Debug\ASCIITest.pdb
