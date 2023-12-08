@@ -13,6 +13,29 @@ namespace TalsysConverter
             String decStr = TalsysConv.IntToDec(123);
             Console.WriteLine("Tallet 123 skulle gerne være: " + decStr);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             String binStr = TalsysConv.IntToBin(123);
             Console.WriteLine("Tallet 123 skulle gerne være: " + binStr);
 
