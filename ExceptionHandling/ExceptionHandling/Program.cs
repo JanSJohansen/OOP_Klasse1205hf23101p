@@ -28,6 +28,10 @@
                 Console.WriteLine("All other exceptions");
                 Console.WriteLine(e.ToString());
             }
+            finally
+            {
+
+            }
 
             Console.WriteLine(tal3);
 
