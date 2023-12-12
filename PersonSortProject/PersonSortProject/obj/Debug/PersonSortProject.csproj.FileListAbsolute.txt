@@ -1,0 +1,8 @@
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\bin\Debug\PersonSortProject.exe.config
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\bin\Debug\PersonSortProject.exe
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\bin\Debug\PersonSortProject.pdb
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\obj\Debug\PersonSortProject.csproj.AssemblyReference.cache
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\obj\Debug\PersonSortProject.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\obj\Debug\PersonSortProject.csproj.CoreCompileInputs.cache
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\obj\Debug\PersonSortProject.exe
+C:\AJan\Programmering\Programmering I\Opgaver\Opgaver Person\PersonSortProject\PersonSortProject\obj\Debug\PersonSortProject.pdb
