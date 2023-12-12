@@ -61,7 +61,7 @@ namespace SorteringsTest
                 Console.WriteLine(mus);
 
             Console.WriteLine("Sorteret på Fødselsår: ");
-            musikere.Sort(new MusikerSortBirthYear());
+            musikere.Sort(new MusikerSortBirthYear(hvilken property));
             foreach (Musiker mus in musikere)
                 Console.WriteLine(mus);
 

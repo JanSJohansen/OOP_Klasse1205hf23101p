@@ -1,0 +1,8 @@
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\bin\Debug\EnumProjekt.exe.config
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\bin\Debug\EnumProjekt.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\bin\Debug\EnumProjekt.pdb
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\obj\Debug\EnumProjekt.csproj.AssemblyReference.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\obj\Debug\EnumProjekt.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\obj\Debug\EnumProjekt.csproj.CoreCompileInputs.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\obj\Debug\EnumProjekt.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\EnumProjekt\EnumProjekt\obj\Debug\EnumProjekt.pdb
