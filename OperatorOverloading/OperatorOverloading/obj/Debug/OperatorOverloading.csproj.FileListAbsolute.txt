@@ -1,0 +1,8 @@
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

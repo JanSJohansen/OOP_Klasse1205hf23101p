@@ -1,0 +1,8 @@
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\bin\Debug\InterfacesProjekt.exe.config
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\bin\Debug\InterfacesProjekt.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\bin\Debug\InterfacesProjekt.pdb
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\obj\Debug\InterfacesProjekt.csproj.AssemblyReference.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\obj\Debug\InterfacesProjekt.csproj.SuggestedBindingRedirects.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\obj\Debug\InterfacesProjekt.csproj.CoreCompileInputs.cache
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\obj\Debug\InterfacesProjekt.exe
+C:\AJan\Klasser\2023.4.kvt.1205hf23101p\GitHub\OOP_Klasse1205hf23101p\InterfacesProjekt\InterfacesProjekt\obj\Debug\InterfacesProjekt.pdb
